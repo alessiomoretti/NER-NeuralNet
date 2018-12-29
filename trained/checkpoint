@@ -1,0 +1,2 @@
+model_checkpoint_path: "/root/ner/log/model.ckpt"
+all_model_checkpoint_paths: "/root/ner/log/model.ckpt"

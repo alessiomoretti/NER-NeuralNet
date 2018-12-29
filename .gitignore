@@ -1,0 +1,6 @@
+*__pycache__
+.vscode
+.idea
+*.pyc
+twitter/credentials.py
+log/*
